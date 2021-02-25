@@ -1,0 +1,64 @@
+{
+    "version": "1.0",
+    "response": [
+        {
+            "time": "2021-02-25T07:40:00.000+0000",
+            "healthScore": 100,
+            "totalCount": 4,
+            "goodCount": 4,
+            "unmonCount": 0,
+            "fairCount": 0,
+            "badCount": 0,
+            "entity": null,
+            "timeinMillis": 1614238800000
+        }
+    ],
+    "measuredBy": "global",
+    "latestMeasuredByEntity": null,
+    "latestHealthScore": 100,
+    "monitoredDevices": 4,
+    "monitoredHealthyDevices": 4,
+    "monitoredUnHealthyDevices": 0,
+    "unMonitoredDevices": 0,
+    "healthDistirubution": [
+        {
+            "category": "Access",
+            "totalCount": 2,
+            "healthScore": 100,
+            "goodPercentage": 100,
+            "badPercentage": 0,
+            "fairPercentage": 0,
+            "unmonPercentage": 0,
+            "goodCount": 2,
+            "badCount": 0,
+            "fairCount": 0,
+            "unmonCount": 0
+        },
+        {
+            "category": "Distribution",
+            "totalCount": 1,
+            "healthScore": 100,
+            "goodPercentage": 100,
+            "badPercentage": 0,
+            "fairPercentage": 0,
+            "unmonPercentage": 0,
+            "goodCount": 1,
+            "badCount": 0,
+            "fairCount": 0,
+            "unmonCount": 0
+        },
+        {
+            "category": "Router",
+            "totalCount": 1,
+            "healthScore": 100,
+            "goodPercentage": 100,
+            "badPercentage": 0,
+            "fairPercentage": 0,
+            "unmonPercentage": 0,
+            "goodCount": 1,
+            "badCount": 0,
+            "fairCount": 0,
+            "unmonCount": 0
+        }
+    ]
+}
